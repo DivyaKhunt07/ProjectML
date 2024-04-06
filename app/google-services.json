@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766102062180",
+    "project_id": "videovault-9fe70",
+    "storage_bucket": "videovault-9fe70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766102062180:android:a1234a22f6f049c8344b71",
+        "android_client_info": {
+          "package_name": "com.example.imagerecognise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPqW3oknC5dkyJyxRtuByWFdGfdxyndw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
